@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "compat-cli": "^0.1.4",
+    "compat-cli": "github:victoryw/compat#4eedc1dc9cf47655a0d91af97b2b123ce8dae3d4",
     "npx": "^10.2.0"
   }
 }
